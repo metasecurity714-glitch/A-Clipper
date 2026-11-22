@@ -54,5 +54,6 @@ dependencies {
     implementation("androidx.media3:media3-ui:1.6.1")
 
     debugImplementation("androidx.compose.ui:ui-tooling")
+implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2")
 }
 
